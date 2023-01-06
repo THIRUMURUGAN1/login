@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -52,7 +52,7 @@
 		<center>
 		<h2>Login Form</h2>
 
-		<form action="C:\Users\Dell\Documents\Integration\home.html" method="post">
+		<form action="https://thirumurugan1.github.io/homefile/" method="post">
 			<div class="container">
 				<label for="uname"><b>Username</b></label>
 				<input type="text" placeholder="Enter Username" name="uname" required>
