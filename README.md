@@ -52,7 +52,7 @@
 		<center>
 		<h2>Login Form</h2>
 
-		<form action="https://thirumurugan1.github.io/homefile/" method="post">
+		<form action="https://thirumurugan1.github.io/homefile/" method="get">
 			<div class="container">
 				<label for="uname"><b>Username</b></label>
 				<input type="text" placeholder="Enter Username" name="uname" required>
